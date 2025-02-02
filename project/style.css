@@ -16,7 +16,7 @@
     top:0;
     background: #EFF0F3;
 
-    box-shadow: 4px 6px 13px 0px rgba(215, 215, 215, 0.25);
+    box-shadow: 4px 6px 13px 0 rgba(215, 215, 215, 0.25);
 
 }
 
@@ -348,8 +348,6 @@ form{
     text-transform: capitalize;
 }
 
-
-
 .technology>div{
     display: flex;
     justify-content: flex-start;
@@ -398,7 +396,7 @@ form{
     gap:20px;
     width:260px;
     height:60px;
-    margin-top: 80px;
+    margin-top: 55px;
 }
 
 .imgHolder>div{
